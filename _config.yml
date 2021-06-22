@@ -147,6 +147,9 @@ exclude:
   - tmp
   - vendor
   - _site\portfolio
+  - sitemap
+  - terms
+  - _site\cv
 keep_files:
   - .git
   - .svn

@@ -11,30 +11,26 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computing, Girls College in Dammam, 2010
+* M.S. in Advanced Computing - Machine Learning, Data Mining and High-Performance Computing, University of Bristol, 2018
+* Ph.D in Longitudinal Natural Language Processing, Queen Mary University of London, 2023 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2013 - currently : Lecturer 
+  * Imam Abdulrahman bin Faisal University
+  
+* 2012: Lab Instructor /Administrator  
+  * Prince Mohammad Bin Fahd University
+  
+* 2011: Programmer 
+  * Electronia Ltd.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Perseverance and motivation
+* Organisation
+* Communication and Teamwork
 
 Publications
 ======
@@ -53,7 +49,4 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
