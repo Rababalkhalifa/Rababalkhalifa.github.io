@@ -14,7 +14,7 @@ Education
 ======
 * B.S. in Computing, Girls College in Dammam, 2010
 * M.S. in Advanced Computing - Machine Learning, Data Mining and High-Performance Computing, University of Bristol, 2018
-* Ph.D (expected) in Text Classifiers Evaluation and Adaptation on Temporally-Evolving User-generated Contents, Queen Mary University of London, 2023 
+* Ph.D (expected) in Text Classifiers Evaluation and Adaptation on Temporally-Evolving User-generated Contents, Queen Mary University of London, 2023
 
 Work experience
 ======
