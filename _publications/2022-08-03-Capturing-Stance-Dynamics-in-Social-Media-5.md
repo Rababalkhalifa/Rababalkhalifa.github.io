@@ -1,7 +1,7 @@
 ---
 title: 'Capturing stance dynamics in social media: open challenges and research directions'
 collection: publications
-permalink: /publication/2022-08-03-Capturing-Stance-Dynamics-in-Social-Media
+permalink: /publication/2022-08-03-Capturing-Stance-Dynamics-in-Social-Media-5
 excerpt: 'Social media platforms provide a goldmine for mining public opinion on issues of wide societal interest and impact. Opinion mining is a problem that can be operationalised by capturing and aggregating the stance of individual social media posts as supporting, opposing or being neutral towards the issue at hand. While most prior work in stance detection has investigated datasets that cover short periods of time, interest in investigating longitudinal datasets has recently increased. Evolving dynamics in linguistic and behavioural patterns observed in new data require adapting stance detection systems to deal with the changes. In this survey paper, we investigate the intersection between computational linguistics and the temporal evolution of human communication in digital media. We perform a critical review of emerging research considering dynamics, exploring different semantic and pragmatic factors that impact linguistic data in general, and stance in particular. We further discuss current directions in capturing stance dynamics in social media. We discuss the challenges encountered when dealing with stance dynamics, identify open challenges and discuss future directions in three key dimensions: utterance, context and influence.'
 
 date: 2022-03-08
