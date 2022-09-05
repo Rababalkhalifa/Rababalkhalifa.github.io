@@ -18,20 +18,20 @@ Education
 
 Work experience
 ======
-* 2013 - currently : Lecturer 
+* 2013-Current: Lecturer 
   * Imam Abdulrahman bin Faisal University
   
-* 2012: Lab Instructor /Administrator  
+* 2012-2013: Lab Instructor /Administrator  
   * Prince Mohammad Bin Fahd University
   
-* 2011: Programmer 
+* 2011-2012: Programmer 
   * Electronia Ltd.
   
 Skills
 ======
 * Perseverance and motivation
 * Organisation
-* Communication and Teamwork
+* Communication and teamwork
 
 Publications
 ======
