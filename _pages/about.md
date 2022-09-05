@@ -14,24 +14,24 @@ Education
 ======
 * B.S. in Computing, Girls College in Dammam, 2010
 * M.S. in Advanced Computing - Machine Learning, Data Mining and High-Performance Computing, University of Bristol, 2018
-* Ph.D (expected) in Text Classifiers Evaluation and Adaptation on Temporally-Evolving User-generated Contents, Queen Mary University of London, 2023 
+* Ph.D (expected) in Text Classifiers Evaluation and Adaptation using Temporally-Evolving User-generated Contents, Queen Mary University of London, 2023
 
 Work experience
 ======
-* 2013 - currently : Lecturer 
+* 2013-Current: Lecturer 
   * Imam Abdulrahman bin Faisal University
   
-* 2012: Lab Instructor /Administrator  
+* 2012-2013: Lab Instructor /Administrator  
   * Prince Mohammad Bin Fahd University
   
-* 2011: Programmer 
+* 2011-2012: Programmer 
   * Electronia Ltd.
   
 Skills
 ======
 * Perseverance and motivation
 * Organisation
-* Communication and Teamwork
+* Communication and teamwork
 
 Publications
 ======
