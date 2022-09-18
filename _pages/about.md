@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "CV"
+title: "Highlights"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,6 +9,12 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+Soon
+======
+* 'Longitudinal Evaluation of Model Performance' Shared task [See more info at (https://clef-longeval.github.io/)]
+* Working paper for Assessing the Temporal Persistence of Text Classifiers [Draft at (https://arxiv.org/abs/2205.05435)]
+
 
 Education
 ======
