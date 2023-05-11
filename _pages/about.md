@@ -10,9 +10,9 @@ redirect_from:
 
 {% include base_path %}
 
-News
-======
-* Join us in coordinating a collaborative effort to conduct a comprehensive evaluation of text classifiers through a temporal lens, in our shared task "Longitudinal Evaluation of Model Performance" shared task. [See more info at (<a href="https://clef-longeval.github.io/">https://clef-longeval.github.io/</a>)]
+<!-- News
+====== -->
+Join us in coordinating a collaborative effort to conduct a comprehensive evaluation of text classifiers through a temporal lens, in our shared task "Longitudinal Evaluation of Model Performance" shared task. [See more info at (<a href="https://clef-longeval.github.io/">https://clef-longeval.github.io/</a>)]
 
 Publications
 ======
