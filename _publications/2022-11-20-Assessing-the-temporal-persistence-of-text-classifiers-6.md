@@ -1,8 +1,9 @@
 ---
-title: "Building for tomorrow: Assessing the temporal persistence of text classifiers"
+title: 'Building for tomorrow: Assessing the temporal persistence of text classifiers'
 collection: publications
 permalink: /publication/2022-11-20-Assessing-the-temporal-persistence-of-text-classifiers-6
 excerpt: 'Performance of text classification models tends to drop over time due to changes in data, which limits the lifetime of a pretrained model. Therefore an ability to predict a model's ability to persist over time can help design models that can be effectively used over a longer period of time. In this paper, we provide a thorough discussion into the problem, establish an evaluation setup for the task. We look at this problem from a practical perspective by assessing the ability of a wide range of language models and classification algorithms to persist over time, as well as how dataset characteristics can help predict the temporal stability of different models. We perform longitudinal classification experiments on three datasets spanning between 6 and 19 years, and involving diverse tasks and types of data. By splitting the longitudinal datasets into years, we perform a comprehensive set of experiments by training and testing across data that are different numbers of years apart from each other, both in the past and in the future. This enables a gradual investigation into the impact of the temporal gap between training and test sets on the classification performance, as well as measuring the extent of the persistence over time.'
+
 date: 2022-11-20
 venue: ' Information Processing & Management (2023)'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0306457322003016'
