@@ -10,10 +10,10 @@ redirect_from:
 
 {% include base_path %}
 
-Soon
+<mark> NEW </mark>
 ======
 * "Longitudinal Evaluation of Model Performance" Shared task [See more info at (<a href="https://clef-longeval.github.io/">https://clef-longeval.github.io/</a>)]
-* Working paper for Assessing the Temporal Persistence of Text Classifiers [Draft at (<a href="https://arxiv.org/abs/2205.05435">https://arxiv.org/abs/2205.05435</a>)]
+<!-- * Working paper for Assessing the Temporal Persistence of Text Classifiers [Draft at (<a href="https://arxiv.org/abs/2205.05435">https://arxiv.org/abs/2205.05435</a>)] -->
 
 
 Education
