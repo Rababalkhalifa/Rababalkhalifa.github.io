@@ -10,34 +10,9 @@ redirect_from:
 
 {% include base_path %}
 
-<mark> NEW </mark>
-======
-* "Longitudinal Evaluation of Model Performance" Shared task [See more info at (<a href="https://clef-longeval.github.io/">https://clef-longeval.github.io/</a>)]
-<!-- * Working paper for Assessing the Temporal Persistence of Text Classifiers [Draft at (<a href="https://arxiv.org/abs/2205.05435">https://arxiv.org/abs/2205.05435</a>)] -->
-
-
-Education
-======
-* B.S. in Computing, Girls College in Dammam, 2010
-* M.S. in Advanced Computing - Machine Learning, Data Mining and High-Performance Computing, University of Bristol, 2018
-* Ph.D (expected) in Text Classifiers Evaluation and Adaptation using Temporally-Evolving User-generated Contents, Queen Mary University of London, 2024
-
-Work experience
-======
-* 2013-Current: Lecturer 
-  * Imam Abdulrahman bin Faisal University
-  
-* 2012-2013: Lab Instructor /Administrator  
-  * Prince Mohammad Bin Fahd University
-  
-* 2011-2012: Programmer 
-  * Electronia Ltd.
-  
-Skills
-======
-* Perseverance and motivation
-* Organisation
-* Communication and teamwork
+<!-- News
+====== -->
+Join us in coordinating a collaborative effort to conduct a comprehensive evaluation of text classifiers through a temporal lens, in our shared task "Longitudinal Evaluation of Model Performance" shared task. [See more info at (<a href="https://clef-longeval.github.io/">https://clef-longeval.github.io/</a>)]
 
 Publications
 ======
